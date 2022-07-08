@@ -1,5 +1,5 @@
 # expense-savvy
-Link: https://sheynews.herokuapp.com/
+Link: https://expense-savvy.herokuapp.com/
 
 # Project Title
 
